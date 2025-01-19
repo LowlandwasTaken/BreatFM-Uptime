@@ -33,10 +33,10 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /BreatFM-Uptime
+  cname: status.lowlandmusic.de
   logoUrl: https://breathfm.de/static/media/Logo.4eaca830821acccb7df5490a622f2bb4.svg
   name: BreathFM Status
-  themeUrl: https://lowlandwastaken.github.io/BreatFM-Uptime/custom.css
+  themeUrl: https://status.lowlandmusic.de/custom.css
   introTitle: "**BreathFM** ist ein Webradio aus der Schweiz welches in die ganze Welt streamt!"
   introMessage: Hier seht ihr den Status unserer Sender!
   navbar:
