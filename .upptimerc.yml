@@ -8,6 +8,21 @@ sites:
     port: 8020
     check: "tcp-ping"
     ipv6: false
+  - name: InTheMiX
+    url: 88.99.104.157
+    port: 8030
+    check: "tcp-ping"
+    ipv6: false
+  - name: WinterMix
+    url: 88.99.104.157
+    port: 8060
+    check: "tcp-ping"
+    ipv6: false
+  - name: Chill
+    url: 88.99.104.157
+    port: 8070
+    check: "tcp-ping"
+    ipv6: false
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
