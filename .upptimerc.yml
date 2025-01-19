@@ -36,6 +36,7 @@ status-website:
   baseUrl: /BreatFM-Uptime
   logoUrl: https://breathfm.de/static/media/Logo.4eaca830821acccb7df5490a622f2bb4.svg
   name: BreathFM Status
+  theme: ocean
   introTitle: "**BreathFM** ist ein Webradio aus der Schweiz welches in die ganze Welt streamt!"
   introMessage: Hier seht ihr den Status unserer Sender!
   navbar:
