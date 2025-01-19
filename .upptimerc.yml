@@ -23,6 +23,12 @@ sites:
     port: 8070
     check: "tcp-ping"
     ipv6: false
+  - name: SummerMix
+    url: 88.99.104.157
+    port: 8040
+    check: "tcp-ping"
+    ipv6: false
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
