@@ -1,8 +1,8 @@
 #sapper .live-status article {
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    border-bottom-left-radius: 1Opx;
-    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+    border-bottom-left-radius: 1Opx !important;
+    border-bottom-right-radius: 10px !important;
     background-color: #202121;
     border-color: transparent;
     box-shadow: Opx 0px llpx 0px rgba(0,0,0,0.84);
@@ -12,6 +12,16 @@ body {
     background-image: url("https://www.delamar.de/wp-content/uploads/2017/04/musikmesse_studio_equipment_highlights.jpg") !important;
     background-blend-mode: normal;
     backdrop-filter: blur(4.78px) brightness(0.72) grayscale(1);
+    color: #ffffff !important;
+    border-color: transparent;
+}
+
+#sapper up {
+    background-color: #202121;
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+    border-bottom-left-radius: 1Opx !important;
+    border-bottom-right-radius: 10px !important;
 }
 
 #sapper nav {
@@ -20,10 +30,15 @@ body {
 }
 
 #sapper .svelte-8lnl4f article {
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    border-bottom-left-radius: 1Opx;
-    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+    border-bottom-left-radius: 1Opx !important;
+    border-bottom-right-radius: 10px !important;
     border-color: transparent;
     box-shadow: Opx 0px llpx 0px rgba(0,0,0,0.84);
+}
+
+:root {
+    --down-border-left-color: #eb3b5a;
+    --up-border-left-color: #20bf6b;
 }
