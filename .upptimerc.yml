@@ -39,7 +39,7 @@ status-website:
   themeUrl: https://status.lowlandmusic.de/custom.css
   introTitle: "**BreathFM** ist ein Webradio aus der Schweiz welches in die ganze Welt streamt!"
   introMessage: Hier seht ihr den Status unserer Sender!#
-  customBodyHtml: ""&lt;div class=&quot;bg-image&quot;&gt;&lt;/div&gt;"
+  customBodyHtml: "&lt;div class=&quot;bg-image&quot;&gt;&lt;/div&gt;"
   navbar:
     - title: BreathFM
       href: https://breathfm.de/
