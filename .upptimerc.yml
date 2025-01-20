@@ -42,6 +42,9 @@ status-website:
   navbar:
     - title: BreathFM
       href: https://breathfm.de/
+  links:
+    - rel: stylesheet
+      href: https://status.lowlandmusic.de/stylesheet.css
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
