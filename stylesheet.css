@@ -1,0 +1,5 @@
+.bg_image {
+  background-image: url("https://www.delamar.de/wp-content/uploads/2017/04/musikmesse_studio_equipment_highlights.jpg") !important;
+  background-blend-mode: normal;
+  filter: blur(4.78px) brightness(0.72) grayscale(1);
+}
