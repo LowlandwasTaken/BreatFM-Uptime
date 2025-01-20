@@ -1,6 +1,4 @@
 :root {
-    background-image: url("https://www.delamar.de/wp-content/uploads/2017/04/musikmesse_studio_equipment_highlights.jpg") !important;
-    filter: blur(5px) grayscale(100%) !important;
     --body-background-color: transparent;
     --body-text-color: #ffffff;
     --card-background-color: #202121;
