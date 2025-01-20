@@ -1,6 +1,6 @@
 :root {
   --body-text-color: #ffffff;
-  --card-background-color: #002b29;
+  --card-background-color: #202121;
   --nav-background-color: transparent;
   --nav-border-bottom-color: transparent;
   --nav-current-border-bottom-color: transparent;
@@ -24,6 +24,6 @@
   --graph-filter: none;
     border-top-left-radius: 10px !important;
     border-top-right-radius: 10px !important;
-    border-bottom-left-radius: 1Opx !important;
+    border-bottom-left-radius: 10px !important;
     border-bottom-right-radius: 10px !important;
 }
